@@ -11,6 +11,8 @@ public class Test01 {
 
         }
         System.out.println("aaa");
+
+         System.out.println(987);
     }
 
 
